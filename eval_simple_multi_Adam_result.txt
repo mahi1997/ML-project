@@ -1,0 +1,3 @@
+Epoch 50
+Log Mean Final Error: 0.21
+Mean epoch time: 0.02 s

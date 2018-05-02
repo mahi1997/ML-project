@@ -1,0 +1,9 @@
+Optimizee variables
+[u'x:0']
+Problem variables
+[u'w:0', u'y:0']
+Optimizer 'cw' variables
+[u'vars_optimizer/cw_deep_lstm/lstm_1/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_1/b_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/b_gates:0', u'vars_optimizer/cw_deep_lstm/linear/w:0', u'vars_optimizer/cw_deep_lstm/linear/b:0']
+Epoch 50
+Log Mean Final Error: -0.36
+Mean epoch time: 0.25 s

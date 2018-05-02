@@ -1,0 +1,120 @@
+Optimizee variables
+[u'x_0:0', u'x_1:0']
+Problem variables
+[]
+Net: cw, Subset: [0]
+Net: adam, Subset: [1]
+Optimizer 'cw' variables
+[u'vars_optimizer/cw_deep_lstm/linear/w:0', u'vars_optimizer/cw_deep_lstm/linear/b:0']
+Optimizer 'adam' variables
+[]
+Epoch 25
+Log Mean Final Error: -1.21
+Mean epoch time: 0.02 s
+Epoch 50
+Log Mean Final Error: -2.40
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -2.69
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 75
+Log Mean Final Error: -2.87
+Mean epoch time: 0.02 s
+Epoch 100
+Log Mean Final Error: -3.19
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -3.33
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 125
+Log Mean Final Error: -3.44
+Mean epoch time: 0.02 s
+Epoch 150
+Log Mean Final Error: -3.64
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -3.74
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 175
+Log Mean Final Error: -3.81
+Mean epoch time: 0.02 s
+Epoch 200
+Log Mean Final Error: -3.96
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -4.03
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 225
+Log Mean Final Error: -4.09
+Mean epoch time: 0.02 s
+Epoch 250
+Log Mean Final Error: -4.20
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -4.26
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 275
+Log Mean Final Error: -4.30
+Mean epoch time: 0.02 s
+Epoch 300
+Log Mean Final Error: -4.39
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -4.44
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 325
+Log Mean Final Error: -4.47
+Mean epoch time: 0.02 s
+Epoch 350
+Log Mean Final Error: -4.54
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -4.58
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 375
+Log Mean Final Error: -4.61
+Mean epoch time: 0.02 s
+Epoch 400
+Log Mean Final Error: -4.66
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -4.69
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 425
+Log Mean Final Error: -4.71
+Mean epoch time: 0.02 s
+Epoch 450
+Log Mean Final Error: -4.76
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -4.78
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi
+Epoch 475
+Log Mean Final Error: -4.80
+Mean epoch time: 0.02 s
+Epoch 500
+Log Mean Final Error: -4.83
+Mean epoch time: 0.02 s
+EVALUATION
+Log Mean Final Error: -4.85
+Mean epoch time: 0.01 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./simple_multi

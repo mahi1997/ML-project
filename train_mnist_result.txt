@@ -1,0 +1,110 @@
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+Optimizee variables
+[u'mlp/linear_0/w:0', u'mlp/linear_0/b:0', u'mlp/linear_1/w:0', u'mlp/linear_1/b:0']
+Problem variables
+[]
+Optimizer 'cw' variables
+[u'vars_optimizer/cw_deep_lstm/lstm_1/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_1/b_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/b_gates:0', u'vars_optimizer/cw_deep_lstm/linear/w:0', u'vars_optimizer/cw_deep_lstm/linear/b:0']
+Epoch 25
+Log Mean Final Error: 0.28
+Mean epoch time: 9.30 s
+Epoch 50
+Log Mean Final Error: 0.14
+Mean epoch time: 7.79 s
+EVALUATION
+Log Mean Final Error: 0.13
+Mean epoch time: 3.82 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./mnist
+Epoch 75
+Log Mean Final Error: 0.22
+Mean epoch time: 7.98 s
+Epoch 100
+Log Mean Final Error: 0.18
+Mean epoch time: 7.62 s
+EVALUATION
+Log Mean Final Error: 0.17
+Mean epoch time: 3.47 s
+Epoch 125
+Log Mean Final Error: 0.08
+Mean epoch time: 7.63 s
+Epoch 150
+Log Mean Final Error: 0.18
+Mean epoch time: 7.64 s
+EVALUATION
+Log Mean Final Error: 0.03
+Mean epoch time: 3.39 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./mnist
+Epoch 175
+Log Mean Final Error: 0.04
+Mean epoch time: 5.93 s
+Epoch 200
+Log Mean Final Error: 0.12
+Mean epoch time: 5.93 s
+EVALUATION
+Log Mean Final Error: 0.19
+Mean epoch time: 2.88 s
+Epoch 225
+Log Mean Final Error: -0.08
+Mean epoch time: 5.83 s
+Epoch 250
+Log Mean Final Error: -0.02
+Mean epoch time: 6.81 s
+EVALUATION
+Log Mean Final Error: 0.10
+Mean epoch time: 2.80 s
+Epoch 275
+Log Mean Final Error: -0.03
+Mean epoch time: 6.01 s
+Epoch 300
+Log Mean Final Error: -0.08
+Mean epoch time: 6.00 s
+EVALUATION
+Log Mean Final Error: 0.12
+Mean epoch time: 2.82 s
+Epoch 325
+Log Mean Final Error: -0.11
+Mean epoch time: 6.00 s
+Epoch 350
+Log Mean Final Error: -0.23
+Mean epoch time: 6.01 s
+EVALUATION
+Log Mean Final Error: -0.25
+Mean epoch time: 2.80 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./mnist
+Epoch 375
+Log Mean Final Error: -0.11
+Mean epoch time: 6.01 s
+Epoch 400
+Log Mean Final Error: -0.15
+Mean epoch time: 6.01 s
+EVALUATION
+Log Mean Final Error: 0.09
+Mean epoch time: 2.81 s
+Epoch 425
+Log Mean Final Error: -0.07
+Mean epoch time: 6.02 s
+Epoch 450
+Log Mean Final Error: -0.08
+Mean epoch time: 6.01 s
+EVALUATION
+Log Mean Final Error: -0.22
+Mean epoch time: 2.81 s
+Epoch 475
+Log Mean Final Error: -0.19
+Mean epoch time: 5.60 s
+Epoch 500
+Log Mean Final Error: -0.17
+Mean epoch time: 6.69 s
+EVALUATION
+Log Mean Final Error: 0.04
+Mean epoch time: 2.81 s

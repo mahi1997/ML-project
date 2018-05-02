@@ -1,0 +1,110 @@
+Optimizee variables
+[u'x:0']
+Problem variables
+[u'w:0', u'y:0']
+Optimizer 'cw' variables
+[u'vars_optimizer/cw_deep_lstm/lstm_1/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_1/b_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/b_gates:0', u'vars_optimizer/cw_deep_lstm/linear/w:0', u'vars_optimizer/cw_deep_lstm/linear/b:0']
+Epoch 25
+Log Mean Final Error: 1.63
+Mean epoch time: 0.48 s
+Epoch 50
+Log Mean Final Error: -0.27
+Mean epoch time: 0.47 s
+EVALUATION
+Log Mean Final Error: -0.30
+Mean epoch time: 0.19 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./quadratic
+Epoch 75
+Log Mean Final Error: -0.31
+Mean epoch time: 0.52 s
+Epoch 100
+Log Mean Final Error: -0.32
+Mean epoch time: 0.50 s
+EVALUATION
+Log Mean Final Error: -0.32
+Mean epoch time: 0.19 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./quadratic
+Epoch 125
+Log Mean Final Error: -0.33
+Mean epoch time: 0.48 s
+Epoch 150
+Log Mean Final Error: -0.33
+Mean epoch time: 0.63 s
+EVALUATION
+Log Mean Final Error: -0.33
+Mean epoch time: 0.19 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./quadratic
+Epoch 175
+Log Mean Final Error: -0.34
+Mean epoch time: 0.48 s
+Epoch 200
+Log Mean Final Error: -0.34
+Mean epoch time: 0.48 s
+EVALUATION
+Log Mean Final Error: -0.34
+Mean epoch time: 0.19 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./quadratic
+Epoch 225
+Log Mean Final Error: -0.34
+Mean epoch time: 0.52 s
+Epoch 250
+Log Mean Final Error: -0.34
+Mean epoch time: 0.49 s
+EVALUATION
+Log Mean Final Error: -0.34
+Mean epoch time: 0.19 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./quadratic
+Epoch 275
+Log Mean Final Error: -0.35
+Mean epoch time: 0.52 s
+Epoch 300
+Log Mean Final Error: -0.35
+Mean epoch time: 0.51 s
+EVALUATION
+Log Mean Final Error: -0.35
+Mean epoch time: 0.19 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./quadratic
+Epoch 325
+Log Mean Final Error: -0.35
+Mean epoch time: 0.48 s
+Epoch 350
+Log Mean Final Error: -0.35
+Mean epoch time: 0.52 s
+EVALUATION
+Log Mean Final Error: -0.36
+Mean epoch time: 0.19 s
+Removing previously saved meta-optimizer
+Saving meta-optimizer to ./quadratic
+Epoch 375
+Log Mean Final Error: -0.35
+Mean epoch time: 0.47 s
+Epoch 400
+Log Mean Final Error: -0.35
+Mean epoch time: 0.47 s
+EVALUATION
+Log Mean Final Error: -0.35
+Mean epoch time: 0.19 s
+Epoch 425
+Log Mean Final Error: -0.34
+Mean epoch time: 0.48 s
+Epoch 450
+Log Mean Final Error: -0.33
+Mean epoch time: 0.48 s
+EVALUATION
+Log Mean Final Error: -0.35
+Mean epoch time: 0.19 s
+Epoch 475
+Log Mean Final Error: -0.33
+Mean epoch time: 0.47 s
+Epoch 500
+Log Mean Final Error: -0.33
+Mean epoch time: 0.47 s
+EVALUATION
+Log Mean Final Error: -0.34
+Mean epoch time: 0.19 s

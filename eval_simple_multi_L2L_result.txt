@@ -1,0 +1,13 @@
+Optimizee variables
+[u'x_0:0', u'x_1:0']
+Problem variables
+[]
+Net: cw, Subset: [0]
+Net: adam, Subset: [1]
+Optimizer 'cw' variables
+[u'vars_optimizer/cw_deep_lstm/linear/w:0', u'vars_optimizer/cw_deep_lstm/linear/b:0']
+Optimizer 'adam' variables
+[]
+Epoch 50
+Log Mean Final Error: -4.85
+Mean epoch time: 0.05 s

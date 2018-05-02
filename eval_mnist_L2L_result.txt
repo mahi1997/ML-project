@@ -1,0 +1,13 @@
+Extracting MNIST-data/train-images-idx3-ubyte.gz
+Extracting MNIST-data/train-labels-idx1-ubyte.gz
+Extracting MNIST-data/t10k-images-idx3-ubyte.gz
+Extracting MNIST-data/t10k-labels-idx1-ubyte.gz
+Optimizee variables
+[u'mlp/linear_0/w:0', u'mlp/linear_0/b:0', u'mlp/linear_1/w:0', u'mlp/linear_1/b:0']
+Problem variables
+[]
+Optimizer 'cw' variables
+[u'vars_optimizer/cw_deep_lstm/lstm_1/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_1/b_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/w_gates:0', u'vars_optimizer/cw_deep_lstm/lstm_2/b_gates:0', u'vars_optimizer/cw_deep_lstm/linear/w:0', u'vars_optimizer/cw_deep_lstm/linear/b:0']
+Epoch 50
+Log Mean Final Error: -0.30
+Mean epoch time: 3.17 s
